@@ -1,0 +1,39 @@
+body
+{
+    height: 1744px;
+}
+
+.breadcrumb-holder
+{
+    background: #F5F5F5;
+}
+.breadcrumb-holder .breadcrumb
+{
+    margin: 0;
+}
+section.aboutUs
+{
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+.about-f
+{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.about-f h3
+{
+    font-size: 25px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.about-ceo
+{
+    background:#EEE;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.about-ceo h2
+{
+    margin-bottom: 20px;
+}
